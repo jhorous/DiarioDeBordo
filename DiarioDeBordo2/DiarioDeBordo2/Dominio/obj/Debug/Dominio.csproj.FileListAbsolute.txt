@@ -1,0 +1,9 @@
+C:\Luciano\DiarioDeBordo2\DiarioDeBordo2\Dominio\bin\Debug\Dominio.dll
+C:\Luciano\DiarioDeBordo2\DiarioDeBordo2\Dominio\bin\Debug\Dominio.pdb
+C:\Luciano\DiarioDeBordo2\DiarioDeBordo2\Dominio\bin\Debug\AutoMapper.dll
+C:\Luciano\DiarioDeBordo2\DiarioDeBordo2\Dominio\bin\Debug\Biblioteca.dll
+C:\Luciano\DiarioDeBordo2\DiarioDeBordo2\Dominio\bin\Debug\Biblioteca.pdb
+C:\Luciano\DiarioDeBordo2\DiarioDeBordo2\Dominio\bin\Debug\AutoMapper.xml
+C:\Luciano\DiarioDeBordo2\DiarioDeBordo2\Dominio\obj\Debug\Dominio.csprojResolveAssemblyReference.cache
+C:\Luciano\DiarioDeBordo2\DiarioDeBordo2\Dominio\obj\Debug\Dominio.dll
+C:\Luciano\DiarioDeBordo2\DiarioDeBordo2\Dominio\obj\Debug\Dominio.pdb

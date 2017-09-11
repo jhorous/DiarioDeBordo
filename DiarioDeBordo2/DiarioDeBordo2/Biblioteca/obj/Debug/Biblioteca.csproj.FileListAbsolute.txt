@@ -1,0 +1,6 @@
+C:\Luciano\DiarioDeBordo2\DiarioDeBordo2\Biblioteca\bin\Debug\Biblioteca.dll
+C:\Luciano\DiarioDeBordo2\DiarioDeBordo2\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Luciano\DiarioDeBordo2\DiarioDeBordo2\Biblioteca\bin\Debug\AutoMapper.dll
+C:\Luciano\DiarioDeBordo2\DiarioDeBordo2\Biblioteca\bin\Debug\AutoMapper.xml
+C:\Luciano\DiarioDeBordo2\DiarioDeBordo2\Biblioteca\obj\Debug\Biblioteca.dll
+C:\Luciano\DiarioDeBordo2\DiarioDeBordo2\Biblioteca\obj\Debug\Biblioteca.pdb

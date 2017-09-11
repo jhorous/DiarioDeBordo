@@ -1,0 +1,9 @@
+C:\Luciano\DiarioDeBordo2\DiarioDeBordo2\DataTransfer\bin\Debug\DataTransfer.dll
+C:\Luciano\DiarioDeBordo2\DiarioDeBordo2\DataTransfer\bin\Debug\DataTransfer.pdb
+C:\Luciano\DiarioDeBordo2\DiarioDeBordo2\DataTransfer\bin\Debug\AutoMapper.dll
+C:\Luciano\DiarioDeBordo2\DiarioDeBordo2\DataTransfer\bin\Debug\Biblioteca.dll
+C:\Luciano\DiarioDeBordo2\DiarioDeBordo2\DataTransfer\bin\Debug\Biblioteca.pdb
+C:\Luciano\DiarioDeBordo2\DiarioDeBordo2\DataTransfer\bin\Debug\AutoMapper.xml
+C:\Luciano\DiarioDeBordo2\DiarioDeBordo2\DataTransfer\obj\Debug\DataTransfer.csprojResolveAssemblyReference.cache
+C:\Luciano\DiarioDeBordo2\DiarioDeBordo2\DataTransfer\obj\Debug\DataTransfer.dll
+C:\Luciano\DiarioDeBordo2\DiarioDeBordo2\DataTransfer\obj\Debug\DataTransfer.pdb

@@ -1,0 +1,13 @@
+C:\Luciano\DiarioDeBordo2\DiarioDeBordo2\Infra\bin\Debug\Infra.dll
+C:\Luciano\DiarioDeBordo2\DiarioDeBordo2\Infra\bin\Debug\Infra.pdb
+C:\Luciano\DiarioDeBordo2\DiarioDeBordo2\Infra\bin\Debug\AutoMapper.dll
+C:\Luciano\DiarioDeBordo2\DiarioDeBordo2\Infra\bin\Debug\Biblioteca.dll
+C:\Luciano\DiarioDeBordo2\DiarioDeBordo2\Infra\bin\Debug\Dapper.dll
+C:\Luciano\DiarioDeBordo2\DiarioDeBordo2\Infra\bin\Debug\Dominio.dll
+C:\Luciano\DiarioDeBordo2\DiarioDeBordo2\Infra\bin\Debug\Biblioteca.pdb
+C:\Luciano\DiarioDeBordo2\DiarioDeBordo2\Infra\bin\Debug\Dominio.pdb
+C:\Luciano\DiarioDeBordo2\DiarioDeBordo2\Infra\bin\Debug\AutoMapper.xml
+C:\Luciano\DiarioDeBordo2\DiarioDeBordo2\Infra\bin\Debug\Dapper.xml
+C:\Luciano\DiarioDeBordo2\DiarioDeBordo2\Infra\obj\Debug\Infra.csprojResolveAssemblyReference.cache
+C:\Luciano\DiarioDeBordo2\DiarioDeBordo2\Infra\obj\Debug\Infra.dll
+C:\Luciano\DiarioDeBordo2\DiarioDeBordo2\Infra\obj\Debug\Infra.pdb
